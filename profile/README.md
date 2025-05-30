@@ -3,8 +3,8 @@
 |
 asimov-platform
 |
-[asimov-datasets](https://github.com/asimov-datasets)
-|
 [asimov-modules](https://github.com/asimov-modules)
+|
+[asimov-datasets](https://github.com/asimov-datasets)
 |
 [asimov-constructs](https://github.com/asimov-constructs)
